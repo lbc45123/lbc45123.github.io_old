@@ -12,13 +12,13 @@ I am currently a PhD student in Applied Physics at Stanford University (2018 - ?
 
 Research
 ======
-My research interest is broad, but judging from publications, my main focus is on photonic crystal and optical information processing. I am also inerested in machine learning, with a few course projects uploaded by my friends on arxiv. My undergraduate research was mainly on ion-trap quantum computing. I also worked on a mathy project about pseudomodular groups with Prof Tan Ser Peow. I hope to work on brain-machine interface as a test subject someday.
+My research interest is broad, but judging from publications, my main focus is on photonic crystal and optical information processing. I am also inerested in machine learning, with a few course projects on arxiv. My undergraduate research was mainly on ion-trap quantum computing. I also worked on a mathy project about pseudomodular groups with Prof Tan Ser Peow. I hope to work on brain-machine interface as a test subject someday.
 
 Publications
 ------
 [Hyperbolic jigsaws and families of pseudomodular groups I](https://msp.org/gt/2018/22-4/p10.xhtml). Beicheng Lou, Ser Peow Tan and Anh Duc Vo. <i>Geometry & Topology 22 (2018) 2339–2366</i>
 
-[Hyperbolic jigsaws and families of pseudomodular groups II](https://arxiv.org/abs/2010.10725). Beicheng Lou, Ser Peow Tan and Anh Duc Vo. <i>International Mathematics Research Notices (to appear)</i>
+[Hyperbolic jigsaws and families of pseudomodular groups II](https://arxiv.org/abs/2010.10725). Beicheng Lou, Ser Peow Tan and Anh Duc Vo. <i>International Mathematics Research Notices</i>
 
 [TunaGAN: Interpretable GAN for Smart Editing](https://arxiv.org/abs/1908.06163). Weiquan Mao, Beicheng Lou, Jiyao Yuan. <i>Course project on arxiv</i>
 
@@ -26,10 +26,12 @@ Publications
 
 [Wide wavelength-tunable narrow-band thermal radiation from moiré patterns](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.136101). Cheng Guo, Yu Guo, Beicheng Lou and Shanhui Fan. <i>Appl. Phys. Lett. 118, 131111</i>
 
-[Inverse design of plasma metamaterial devices for optical computing](https://arxiv.org/abs/2102.05148). Jesse A. Rodriguez, Ahmed I. Abdalla, Benjamin Wang, Beicheng Lou, Shanhui Fan, Mark A. Cappelli. <i>Phys. Rev. Applied (to appear)</i>
+[Inverse design of plasma metamaterial devices for optical computing](https://arxiv.org/abs/2102.05148). Jesse A. Rodriguez, Ahmed I. Abdalla, Benjamin Wang, Beicheng Lou, Shanhui Fan, Mark A. Cappelli. <i>Phys. Rev. Applied</i>
+
+and a few more...
 
 
 Hobbies
 ------
-In my spare time, I play various sports. My recent favorite would be skiing, climbing and surfing. I am also developing my fully-wired brain to learn piano.
+In my spare time, I play various sports. My recent favorite would be climbing, skiing and surfing. I am also developing my fully-wired brain to learn piano.
 
