@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in Applied Physics at Stanford University (2018 - ?), fortunately advised by Prof. [Shanhui Fan](https://scholar.google.com/citations?user=BECu7wYAAAAJ&hl=zh-CN), with a PhD minor in Statistics. Before coming to Stanford, I completed a B.Eng. from National University of Singapore (2015-2018), with a double major in engineering science and physics plus a minor in computer science. 
+I am currently a PhD student in applied physics at Stanford University (2018 - ?), fortunately advised by Prof. [Shanhui Fan](https://scholar.google.com/citations?user=BECu7wYAAAAJ&hl=zh-CN), with a PhD minor in statistics. Before coming to Stanford, I completed a B.Eng. from National University of Singapore (2015-2018), with a double major in engineering science and physics plus a minor in computer science. 
 
 Research
 ======
