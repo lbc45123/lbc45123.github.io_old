@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in Applied Physics at Stanford University (2018 - ?), fortunately advised by Prof. [Shanhui Fan](https://scholar.google.com/citations?user=BECu7wYAAAAJ&hl=zh-CN). Before coming to Stanford, I completed a B.Eng. from National University of Singapore, with a double major in engineering science and physics plus a minor in computer science. 
+I am currently a PhD student in Applied Physics at Stanford University (2018 - ?), fortunately advised by Prof. [Shanhui Fan](https://scholar.google.com/citations?user=BECu7wYAAAAJ&hl=zh-CN), with a PhD minor in Statistics. Before coming to Stanford, I completed a B.Eng. from National University of Singapore (2015-2018), with a double major in engineering science and physics plus a minor in computer science. 
 
 Research
 ======
@@ -22,11 +22,15 @@ Publications
 
 [TunaGAN: Interpretable GAN for Smart Editing](https://arxiv.org/abs/1908.06163). Weiquan Mao, Beicheng Lou, Jiyao Yuan. <i>Course project on arxiv</i>
 
+[Meta-learning from sparse recovery](https://openreview.net/forum?id=ODs0nDkjncI). Beicheng Lou, Jiahui Wang, Nathan Zhao. <i>NeurIPS workshop</i>
+
 [Theory for Twisted Bilayer Photonic Crystal Slabs](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.136101). Beicheng Lou, Nathan Zhao, Momchil Minkov, Cheng Guo, Meir Orenstein, and Shanhui Fan. <i>Phys. Rev. Lett. 126, 136101</i>
 
 [Wide wavelength-tunable narrow-band thermal radiation from moiré patterns](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.136101). Cheng Guo, Yu Guo, Beicheng Lou and Shanhui Fan. <i>Appl. Phys. Lett. 118, 131111</i>
 
 [Inverse design of plasma metamaterial devices for optical computing](https://arxiv.org/abs/2102.05148). Jesse A. Rodriguez, Ahmed I. Abdalla, Benjamin Wang, Beicheng Lou, Shanhui Fan, Mark A. Cappelli. <i>Phys. Rev. Applied</i>
+
+[Tunable guided resonance in twisted bilayer photonic crystal](https://www.science.org/doi/10.1126/sciadv.add4339). Beicheng Lou, Benjamin Wang, Jesse A Rodriguez, Mark Cappelli, Shanhui Fan. <i>Science Advances</i>
 
 and a few more...
 
