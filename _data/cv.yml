@@ -1,109 +1,97 @@
-# - title: General Information
-#   type: map
-#   contents:
-#     - name: Full Name
-#       value: Beicheng Lou
-#     - name: Email
-#       value: lbc45123@hotmail.com
-#     - name: Phone
-#       value: +1 650-665-1060
-#     - name: Address
-#       value: 348 Via Pueblo Mall, Stanford, CA 94305
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Albert Einstein
+    - name: Date of Birth
+      value: 14th March 1879
+    - name: Languages
+      value: English, German
 
-# - title: Education
-#   type: time_table
-#   contents:
-#     - title: PhD in Applied Physics, Minor in Statistics
-#       institution: Stanford University
-#       year: Sept 2018 - Dec 2024
-#     - title: Bachelor in Engineering Science, and Physics, Minor in Computer Science
-#       institution: National University of Singapore
-#       year: Sept 2015 - Jun 2018
-    - title: Exchange in Engineering Science Program
-      institution: University of Toronto
-      year: Jan 2017 - May 2017
-
-- title: My PhD
+- title: Education
   type: time_table
   contents:
-    - title: PhD in Applied Physics
-      institution: Stanford University
-      year: 2018 - 2024
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
-        - Advisor: Prof. Shanhui Fan
-        - Thesis: "Theory and Application of Twisted Bilayer Photonic Crystals"
-        - Focused on light-matter interaction in moiré superlattices and inverse design of nanophotonic structures.
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
+      description:
+        - Description 1.
+        - Description 2.
 
-- title: Professional Experience
+- title: Experience
   type: time_table
-#   contents:
-#     - title: Researcher
-#       institution: Jump Operations
-#       year: Sept 2024 - Present
-#       description:
-#         - Next-generation pipeline for training, evaluation and data (RL, LLM, agents, self-improvement)
-#     - title: Research Scientist
-#       institution: Nvidia Research
-#       year: Jun 2024 - Sept 2024
-#       description:
-#         - Inverse design for tackling bandwidth bottleneck in next-generation platforms
-#     - title: Quantitative Researcher
-#       institution: Jump Operations
-#       year: Jun 2023 - Aug 2023
-#       description:
-#         - Scalable alpha research in high-frequency and mid-frequency problems
-#     - title: Quantitative Researcher
-#       institution: Citadel
-#       year: Jun 2022 - Aug 2022
-#       description:
-#         - Exotic modeling in mid-frequency problems
+  contents:
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
+      description:
+        - Description 1.
+        - Description 2.
 
-# - title: Research Experience
-#   type: time_table
-#   contents:
-#     - title: Graduate Researcher (Dept of Applied Physics)
-#       institution: Stanford University
-#       year: Jan 2019 - Jun 2024
-#       description:
-#         - Advisor: Prof. Shanhui Fan
-#         - Software-hardware co-design for numerical simulation and information processing
-#         - Develop theory and computational method for exotic structures
-#     - title: Graduate Researcher (Dept of Material Sciences)
-#       institution: Stanford University
-#       year: Sept 2018 - Dec 2018
-#       description:
-#         - Advisor: Prof. Thomas Devereaux
-#         - Simulate quantum systems in large scale with advanced computational techniques
-#     - title: Undergraduate Researcher (Center for Quantum Technology)
-#       institution: National University of Singapore
-#       year: May 2017 - Aug 2018
-#       description:
-#         - Advisor: Prof. Dzmitry Matsukevich, Prof. Benoît Grémaud
-#         - Build an ion-trap-based quantum computer and automate scalable experiment platform with system-on-chip
-#     - title: Undergraduate Researcher (Dept of Mathematics)
-#       institution: National University of Singapore
-#       year: Jan 2016 - Jan 2017
-#       description:
-#         - Advisor: Prof. Tan Ser Peow
-#         - Answered the open problem of whether there are infinitely many pseudomodular groups (in short, "Yes!"), with main results published on Geometry Topology and a sequel on International Mathematics Research Notices
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
 
-# - title: Awards & Grants
-#   type: list
-#   contents:
-#     - 2018 Lee Kuan Yew Gold Medal, Presidential Office, Singapore
-#     - IES Gold Medal, NUS
-#     - NUSS Medal for Outstanding Achievement, NUS
-#     - ST Engineering Prize for Global Engineering Program, NUS
-#     - Best Final Year Research Project Award, NUS
-#     - 2015-2018 Dean's List Every Semester, NUS
-#     - Science & Technology Undergraduate Scholarship, NUS
-#     - Tuition Grant, Ministry of Education, Singapore
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
+      description:
 
-# - title: Teaching Experience
-#   type: time_table
-#   contents:
-#     - title: Teaching Assistant
-#       institution: Stanford University
-#       year: 2023
-#       description:
-#         - EE 236B Guided Waves
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 1921
+      items:
+        - Nobel Prize in Physics
+        - Matteucci Medal
+    - year: 2029
+      items:
+        - Max Planck Medal
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items:
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

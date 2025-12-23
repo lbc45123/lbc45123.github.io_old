@@ -3,21 +3,23 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Beicheng
-middle_name:
-last_name: Lou
+first_name: You
+middle_name: R.
+last_name: Name
 contact_note: >
-  >_<
+  You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  >.<
+  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
-  -.-
-keywords: quantitative researcher, jump trading, stanford, publications # add your own keywords or leave empty
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://lbc45123.github.io # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
+url: https://alshedivat.github.io # the base hostname & protocol for your site
+baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -30,7 +32,7 @@ back_to_top: true # set to false to disable the back to top button
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
-  enabled: false
+  enabled: true
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
@@ -84,8 +86,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: B'Log # blog_name will be displayed in your blog page
-blog_description: supposed to contain some thoughts
+blog_name: al-folio # blog_name will be displayed in your blog page
+blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -122,17 +124,11 @@ disqus_shortname: al-folio # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
   - name: medium.com
-    # rss_url: https://medium.com/@lbc45123/feed
+    rss_url: https://medium.com/@al-folio/feed
+  - name: Google Blog
     posts:
-      - url: https://medium.com/@lbc45123/architecture-optimization-with-gnn-b06a25e79cf2
-        published_date: 2023-03-22
-        summary: "Toy example to study architecture evolution as graph"
-        tags: [ML]
-        categories: [essay]
-  # - name: Google Blog
-  #   posts:
-  #     - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-  #       published_date: 2024-05-14
+      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+        published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -260,16 +256,16 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["Life", "Physics", "ML", "Trading"] # these tags will be displayed on the front page of your blog
-display_categories: ["mumble","essay","masterpiece"] # these categories will be displayed on the front page of your blog
+display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
+display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Lou]
-  first_name: [Beicheng]
+  last_name: [Einstein]
+  first_name: [Albert, A.]
 
   style: apa
   locale: en
@@ -352,7 +348,7 @@ external_links:
 # MAKE SURE imagemagick is installed and on your PATH before enabling imagemagick. In a terminal, run:
 #   convert -version
 imagemagick:
-  enabled: false # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
+  enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
   widths:
     - 480
     - 800

@@ -48,22 +48,6 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
-    <!-- Background -->
-    {% if page.background %}
-      <h2>
-        <a href="{{ '/cv/' | relative_url }}" style="color: inherit">background</a>
-      </h2>
-      {% include background.liquid %}
-    {% endif %}
-
-    <!-- Past Projects -->
-    {% if page.past_projects %}
-      <h2>
-        <a href="{{ '/projects/' | relative_url }}" style="color: inherit">past projects</a>
-      </h2>
-      {% include past_projects.liquid %}
-    {% endif %}
-
     <!-- Latest posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}
       <h2>

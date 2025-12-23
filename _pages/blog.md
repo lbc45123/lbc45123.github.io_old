@@ -143,6 +143,9 @@ pagination:
       <p class="post-meta">
         {{ read_time }} min read &nbsp; &middot; &nbsp;
         {{ post.date | date: '%B %d, %Y' }}
+        {% if post.external_source %}
+        &nbsp; &middot; &nbsp; {{ post.external_source }}
+        {% endif %}
       </p>
       <p class="post-tags">
         <a href="{{ year | prepend: '/blog/' | relative_url }}">
