@@ -1,0 +1,13 @@
+<div class="projects">
+  {% assign sorted_projects = site.projects | sort: "importance" %}
+  {% for project in sorted_projects %}
+    <div class="card mt-3">
+      <div class="card-body">
+        <h5 class="card-title">
+          <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
+        </h5>
+        <p class="card-text">{{ project.description }}</p>
+      </div>
+    </div>
+  {% endfor %}
+</div>

@@ -1,0 +1,12 @@
+# this file contains the social media links and usernames of the author
+# the commented lines are the default social media links supported by the template
+# the socials will be displayed in the order they are defined here
+
+# cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
+email: email@example.com # your email address
+github_username: your-github # your GitHub user name
+linkedin_username: your-linkedin # your LinkedIn user name
+scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+
+# x_username: # your X handle
+# rss_icon: true # comment this line to hide the RSS icon

@@ -1,0 +1,184 @@
+{
+  "basics": {
+    "name": "Beicheng Lou",
+    "label": "PhD in Applied Physics, Statistics",
+    "image": "",
+    // "email": "beichenglou@outlook.com",
+    // "phone": "+1 650-665-1060",
+    "url": "https://lbc45123.github.io"
+    // "summary": "Quantitative Researcher with expertise in high-frequency trading, machine learning, and computational physics."
+  },
+  "work": [
+    {
+      "name": "Jump Trading",
+      "position": "Researcher",
+      "url": "https://www.jumptrading.com/",
+      "startDate": "2024-09-01",
+      "endDate": "",
+      "summary": "Next-generation pipeline for great things",
+      "highlights": [],
+      "selected": true
+    },
+    {
+      "name": "Nvidia Research",
+      "position": "Research Scientist",
+      "url": "https://www.nvidia.com/en-us/research/",
+      "startDate": "2024-06-01",
+      "endDate": "2024-09-01",
+      // "summary": "Inverse design for tackling bandwidth bottleneck in next-generation platforms",
+      "highlights": []
+    },
+    {
+      "name": "Jump Trading",
+      "position": "Quantitative Researcher",
+      "url": "https://www.jumptrading.com/",
+      "startDate": "2023-06-01",
+      "endDate": "2023-08-01",
+      // "summary": "Scalable alpha research in high-frequency and mid-frequency problems",
+      "highlights": []
+    },
+    {
+      "name": "Citadel",
+      "position": "Quantitative Researcher",
+      "url": "https://www.citadel.com/",
+      "startDate": "2022-06-01",
+      "endDate": "2022-08-01",
+      // "summary": "Exotic modeling in mid-frequency problems",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Stanford University",
+      "url": "https://www.stanford.edu/",
+      "area": "Applied Physics, Minor in Statistics",
+      "studyType": "PhD",
+      "startDate": "2018-09-01",
+      "endDate": "2024-12-01",
+      "score": "",
+      "courses": [],
+      "selected": true
+    },
+    {
+      "institution": "National University of Singapore",
+      "url": "https://www.nus.edu.sg/",
+      "area": "Engineering Science, and Physics, Minor in Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2015-09-01",
+      "endDate": "2018-06-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Toronto",
+      "url": "https://www.utoronto.ca/",
+      "area": "Engineering Science Program",
+      "studyType": "Exchange",
+      "startDate": "2017-01-01",
+      "endDate": "2017-05-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Physics",
+      "level": "",
+      "icon": "fa-solid fa-atom",
+      "keywords": [
+        "Quantum Physics & Computing",
+        "Silicon Photonics & Inverse Design",
+        "Statistical Mechanics"
+      ]
+    },
+    {
+      "name": "Computer Science",
+      "level": "",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "All Kinds of Machine Learning",
+        "Large Language Models from Scratch",
+        "System Programming"
+      ]
+    },
+    {
+      "name": "Statistics",
+      "level": "",
+      "icon": "fa-solid fa-chart-simple",
+      "keywords": [
+        "Statistical Inference",
+        "Probabilistic Graphical Models",
+        "Information Theory"
+      ]
+    },
+    {
+      "name": "Sports",
+      "level": "",
+      "icon": "fa-solid fa-person-running",
+      "keywords": [
+        "Climbing",
+        "Skiing & Snowboarding",
+        "Golfs & Horseriding"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Lee Kuan Yew Gold Medal",
+      "date": "2018",
+      "awarder": "Presidential Office, Singapore",
+      "summary": ""
+    },
+    {
+      "title": "IES Gold Medal",
+      "date": "2018",
+      "awarder": "NUS",
+      "summary": ""
+    },
+    {
+      "title": "NUSS Medal for Outstanding Achievement",
+      "date": "2018",
+      "awarder": "NUS",
+      "summary": ""
+    },
+    {
+      "title": "ST Engineering Prize for Global Engineering Program",
+      "date": "2018",
+      "awarder": "NUS",
+      "summary": ""
+    },
+    {
+      "title": "Best Final Year Research Project Award",
+      "date": "2018-",
+      "awarder": "NUS",
+      "summary": ""
+    },
+    {
+      "title": "Dean's List Every Semester",
+      "date": "2018",
+      "awarder": "NUS",
+      "summary": ""
+    },
+    {
+      "title": "Science & Technology Undergraduate Scholarship",
+      "date": "2018",
+      "awarder": "NUS",
+      "summary": ""
+    }
+  ],
+  "publications": [],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native"
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}
